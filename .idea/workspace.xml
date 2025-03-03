@@ -4,7 +4,148 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a05e9b56-2c07-43fd-bb59-86d0bb21e568" name="Changes" comment="" />
+    <list default="true" id="a05e9b56-2c07-43fd-bb59-86d0bb21e568" name="Changes" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MakeInsertStmts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/Array1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/Array1Ref1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/Array1Ref2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/Array1Ref3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/Array1Ref4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ArrayDi0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ArrayDi1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ArrayDi2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ArrayDi3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ArrayDi4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/EnhancedFor1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx1Ref.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ex/ProductAdminEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/casting/Casting1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/casting/Casting2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/casting/Casting3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/casting/Casting4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cond/CondOp1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cond/CondOp2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cond/If1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cond/If2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cond/If3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cond/If4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cond/If5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cond/If6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cond/Switch1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cond/Switch2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cond/Switch3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cond/Switch4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cond/ex/CondOpEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cond/ex/DistanceEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cond/ex/EvenOddEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cond/ex/ExchangeEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cond/ex/GradeSwitchEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cond/ex/MoveRateEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cond/ex/ScoreEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/Break1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/Break2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/Break3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/Continue1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/DoWhile1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/DoWhile2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/For1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/For2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/Nested1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/While1_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/While1_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/While2_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/While2_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/While2_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/ex/ForEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/ex/ForEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/ex/ForEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/ex/NestedEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/ex/NestedEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/ex/WhileEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/ex/WhileEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/ex/WhileEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/Method1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/Method1Ref.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/Method2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/MethodCasting1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/MethodCasting2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/MethodReturn1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/MethodReturn2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/MethodValue0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/MethodValue1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/MethodValue2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/MethodValue3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/Overloading1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/Overloading2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/Overloading3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/ex/MethodEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/ex/MethodEx1Ref.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/ex/MethodEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/ex/MethodEx2Ref.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/ex/MethodEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/ex/MethodEx3Ref.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/ex/MethodEx4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operator/Assign1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operator/Comp1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operator/Comp2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operator/Operator1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operator/Operator2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operator/Operator3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operator/Operator4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operator/OperatorAdd1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operator/OperatorAdd2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operator/ex/OperationEX3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operator/ex/OperationEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operator/ex/OperationEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/Scanner1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/Scanner2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/Scanner3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/ScannerWhile1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/ScannerWhile2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/ScannerWhile3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/ex/ChangeVarEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/ex/ScannerEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/ex/ScannerEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/ex/ScannerEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/ex/ScannerEx4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/ex/ScannerEx5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/ex/ScannerWhileEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/ex/ScannerWhileEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/ex/ScannerWhileEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/ex/ScannerWhileEx4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scope/Scope1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scope/Scope2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scope/Scope3_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scope/Scope3_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/Var1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/Var2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/Var3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/Var4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/Var5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/Var6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/Var7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/Var8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/ex/VarEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/ex/VarEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/ex/VarEx3.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +159,15 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/th7386/Java",
+    "accountId": "f39c43eb-71ff-41dd-9582-18cc2e417184"
+  }
+}]]></component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -25,75 +175,77 @@
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="2Ymz7xTZZCUpPLSnMtKMvf11ypE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Array1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Array1Ref1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Array1Ref2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Array1Ref3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Array1Ref4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayDi0.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayDi1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayDi2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayDi3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayDi4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayEx2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayEx3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayEx4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayEx5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayEx6.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayEx7.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayEx8.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ChangeVarEx.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EnhancedFor1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MakeInsertStmts.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Method1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Method1Ref.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Method2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MethodCasting1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MethodCasting2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MethodEx1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MethodEx2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MethodEx2Ref.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MethodEx3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MethodEx3Ref.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MethodEx4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MethodReturn1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MethodReturn2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MethodValue0.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MethodValue1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MethodValue2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MethodValue3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Overloading1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Overloading2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Overloading3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ProductAdminEx.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ScannerEx1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ScannerEx2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ScannerEx3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ScannerEx4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ScannerEx5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ScannerWhileEx1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ScannerWhileEx2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ScannerWhileEx4.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/GUTAEHYEONG/IdeaProjects/java-start/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Array1.executor": "Run",
+    "Application.Array1Ref1.executor": "Run",
+    "Application.Array1Ref2.executor": "Run",
+    "Application.Array1Ref3.executor": "Run",
+    "Application.Array1Ref4.executor": "Run",
+    "Application.ArrayDi0.executor": "Run",
+    "Application.ArrayDi1.executor": "Run",
+    "Application.ArrayDi2.executor": "Run",
+    "Application.ArrayDi3.executor": "Run",
+    "Application.ArrayDi4.executor": "Run",
+    "Application.ArrayEx2.executor": "Run",
+    "Application.ArrayEx3.executor": "Run",
+    "Application.ArrayEx4.executor": "Run",
+    "Application.ArrayEx5.executor": "Run",
+    "Application.ArrayEx6.executor": "Run",
+    "Application.ArrayEx7.executor": "Run",
+    "Application.ArrayEx8.executor": "Run",
+    "Application.ChangeVarEx.executor": "Run",
+    "Application.EnhancedFor1.executor": "Run",
+    "Application.MakeInsertStmts.executor": "Run",
+    "Application.Method1.executor": "Run",
+    "Application.Method1Ref.executor": "Run",
+    "Application.Method2.executor": "Run",
+    "Application.MethodCasting1.executor": "Run",
+    "Application.MethodCasting2.executor": "Run",
+    "Application.MethodEx1.executor": "Run",
+    "Application.MethodEx2.executor": "Run",
+    "Application.MethodEx2Ref.executor": "Run",
+    "Application.MethodEx3.executor": "Run",
+    "Application.MethodEx3Ref.executor": "Run",
+    "Application.MethodEx4.executor": "Run",
+    "Application.MethodReturn1.executor": "Run",
+    "Application.MethodReturn2.executor": "Run",
+    "Application.MethodValue0.executor": "Run",
+    "Application.MethodValue1.executor": "Run",
+    "Application.MethodValue2.executor": "Run",
+    "Application.MethodValue3.executor": "Run",
+    "Application.Overloading1.executor": "Run",
+    "Application.Overloading2.executor": "Run",
+    "Application.Overloading3.executor": "Run",
+    "Application.ProductAdminEx.executor": "Run",
+    "Application.ScannerEx1.executor": "Run",
+    "Application.ScannerEx2.executor": "Run",
+    "Application.ScannerEx3.executor": "Run",
+    "Application.ScannerEx4.executor": "Run",
+    "Application.ScannerEx5.executor": "Run",
+    "Application.ScannerWhileEx1.executor": "Run",
+    "Application.ScannerWhileEx2.executor": "Run",
+    "Application.ScannerWhileEx4.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/GUTAEHYEONG/IdeaProjects/java-start/src/Main.java",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\GUTAEHYEONG\IdeaProjects\java-start" />
@@ -180,8 +332,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.19416.15" />
-        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.19416.15" />
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.25659.39" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.25659.39" />
       </set>
     </attachedChunks>
   </component>
@@ -225,11 +377,36 @@
       <workItem from="1728974448602" duration="611000" />
       <workItem from="1736238836687" duration="77000" />
       <workItem from="1736238979276" duration="139000" />
+      <workItem from="1740989010689" duration="610000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1740989622366</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1740989622366</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
